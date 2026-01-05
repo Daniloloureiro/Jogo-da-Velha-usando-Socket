@@ -104,6 +104,8 @@ Durante o desenvolvimento, foram enfrentados e solucionados os seguintes desafio
 ## 👨‍💻 Autores
 
 * **Danilo Loureiro**
+* **Kimberly Cardoso de Oliveira Silva**
+* **Bruno Eduardo Moreira Mulato**
 
 ---
 
